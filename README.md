@@ -1,6 +1,6 @@
 # Project 2 - * LoginActivity App*
 
-**LoginActivity** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**LoginActivity** is an android app that lets users view a list of movies sourced from the The Movie Database API.
 
 Submitted by: **Armando Gray, Jr.**
 
